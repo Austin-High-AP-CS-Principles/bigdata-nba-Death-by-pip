@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "TestMain.java",
+      "setup": "",
+      "run": "gradle test TestMain.java",
+      "input": null,
+      "output": null,
+      "comparison": "exact",
+      "timeout": 10,
+      "points": 10
+    }
+  ]
+}
